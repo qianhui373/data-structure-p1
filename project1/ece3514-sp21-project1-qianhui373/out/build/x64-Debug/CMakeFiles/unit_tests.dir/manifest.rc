@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/project1/ece3514-sp21-project1-qianhui373/out/build/x64-Debug/CMakeFiles/unit_tests.dir/embed.manifest"

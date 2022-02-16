@@ -1,0 +1,8 @@
+C:/Users/project1/ece-project1-build/CMakeFiles/unit_tests.dir
+C:/Users/project1/ece-project1-build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/project1/ece-project1-build/CMakeFiles/Experimental.dir
+C:/Users/project1/ece-project1-build/CMakeFiles/Continuous.dir
+C:/Users/project1/ece-project1-build/CMakeFiles/Nightly.dir
+C:/Users/project1/ece-project1-build/CMakeFiles/RUN_TESTS.dir
+C:/Users/project1/ece-project1-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/project1/ece-project1-build/CMakeFiles/ZERO_CHECK.dir
